@@ -1,0 +1,80 @@
+
+A - 1,024 Mb.....
+
+B - 1,000 Mb
+
+C - 1,200 Mb
+
+D - 1,275 Mb
+
+
+
+2) Who developed Java programming language?
+Bill Joy
+Charles Babbage
+
+James Gosling.........
+
+3)Which is the oldest coding language?
+Fortran..........
+Lisp
+BASIC
+Pascal
+
+4) The brain of any computer system is
+
+A.	ALU
+B.	Memory
+C.	CPU.........
+D.	Control unit
+E.	None of the abov
+
+5) Which of the following computer language is used for artificial intelligence?
+
+A.	FORTRAN
+B.	PROLOG........
+C.	C
+D.	COBOL
+E.	None of the above
+
+6) Which of the following is the 1's complement of 10?
+
+A.	01........
+B.	110
+C.	11
+D.	10
+E.	None of the above
+
+7)  	
+The binary system uses powers of
+
+A.	2..........
+B.	10
+C.	8
+D.	16
+E.	None of the above
+
+8) A computer program that converts assembly language to machine language is
+
+A.	Compiler
+B.	Interpreter
+C.	Assembler...........
+D.	Comparator
+E.	None of the above
+
+9)  	
+A common boundary between two systems is called
+
+A.	Interdiction
+B.	Interface.......
+C.	Surface
+D.	None of the above
+
+10) 	
+Which computer has been designed to be as compact as possible?
+
+A.	Mini
+B.	Super computer
+C.	Micro computer.........
+D.	Mainframe
+E.	None of the above
